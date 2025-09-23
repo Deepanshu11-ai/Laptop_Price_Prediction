@@ -76,8 +76,8 @@ Performance may vary based on dataset and preprocessing.
 
 Clone the repo:
 
-git clone https://github.com/Deepanshu11-ai/laptop-price-prediction.git
-cd laptop-price-prediction
+git clone https://github.com/Deepanshu11-ai/Laptop_Price_Prediction.git
+cd Laptop_Price_Prediction
 
 
 Install dependencies:
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 Run the predictor:
 
-python predict_laptop_price.py
+python Laptop_Price_Prediction.py
 
 
 Enter laptop specs and see the magic ✨
